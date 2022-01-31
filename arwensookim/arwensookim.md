@@ -1,4 +1,4 @@
-1. SSR vs CSR
+### 1. SSR vs CSR
 - **SSR (Server Side Rendering)** : request new page to server and refresh the page every request
 
     - faster initial loading
@@ -16,4 +16,4 @@
 <img src="arwensookim/img/ssr_and_csr_3.png"></img>
 
 
-2. How Backend and Frontend communicate?
+### 2. How Backend and Frontend communicate?
