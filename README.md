@@ -3,7 +3,7 @@
 ## 참여자
 
 - starcush(https://github.com/Starcush)
-
+- Arwen(https://github.com/arwensookim)
 ## 공부 규칙
 
 - 주말을 제외한 매일 저녁에 프론트엔드 면접과 관련된 질문을 정한다.
