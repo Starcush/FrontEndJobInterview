@@ -12,7 +12,8 @@
 #### Difference
 - main difference between CSR and SSR is **where** the page is rendering.
 
-/Users/arwenkim/Desktop/FrontEndJobInterview/arwensookim/img/ssr_and_csr_3.png
+![ssr_and_csr_3](https://user-images.githubusercontent.com/64451087/151859237-ab92ef86-35fc-45d5-83d9-4da874976ef4.png)
+
 
 
 2. How Backend and Frontend communicate?
