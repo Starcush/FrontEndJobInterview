@@ -30,3 +30,4 @@
 - **Class Component**: require us to extend from React. **MUST** have render() methods to return.
 
 ***
+### 4. What is LifeCycle in React?
