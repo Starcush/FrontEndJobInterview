@@ -26,5 +26,7 @@
 
 ***
 ### 3. Difference between _Functional Component_ and _Class Component_?
+- **Functional Components**: Simply Javascript functions. Hooks are used in Functional Component to use/manage state and other React features. Stateless component with no render function.
+- **Class Component**: require us to extend from React. **MUST** have render() methods to return.
 
 ***
