@@ -15,5 +15,10 @@
 ![ssr_vs_csr](/arwensookim/img/ssr_and_csr_3.png)
 
 
-* * *
+***
 ### 2. How Backend and Frontend communicate?
+
+***
+### 3. Difference between _Functional Component_ and _Class Component_?
+
+***
