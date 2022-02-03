@@ -17,6 +17,12 @@
 
 ***
 ### 2. How Backend and Frontend communicate?
+- front-end and back-end communicate with each other via **Http Requests**. Front-end will entered data to the backend and the back-end might then again validate that data and finally sotred it in some database. 
+    - user enters a URL(makes the browser go and requiet it)
+    - browser reads the incoming HTML -> request HTML request (it happens while loading a website)
+    - user clicks on link, webpage is loaded and rendered. The browser knows that they need to navigate to new page and requests the corresponding URL.
+    - JavaScript is executed on the site, and want sto have some data loaded in the background. Requests are being made, doesn't reload the whole page(AJAX). 
+
 
 ***
 ### 3. Difference between _Functional Component_ and _Class Component_?
